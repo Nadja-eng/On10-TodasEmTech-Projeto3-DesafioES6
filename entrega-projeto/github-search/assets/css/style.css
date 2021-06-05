@@ -1,0 +1,21 @@
+.container-input{
+    border: 1px solid black;
+    width: 400px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+   }
+   
+   .input{
+    border: none;
+    outline: none;
+    width: 100%;
+    padding: 8px;
+   }
+   
+   .btn {
+       background-color: transparent;
+       border: none;
+   }
